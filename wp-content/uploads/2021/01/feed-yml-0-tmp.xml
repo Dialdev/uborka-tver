@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2021-01-22 17:06">
+<shop>
+<name>Чистый Дом</name>
+<company>Компания Чистый дом</company>
+<url>https://www.uborka-tver.ru/</url>
+<platform>WordPress - Yml for Yandex Market</platform>
+<version>4.5.23</version>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="374">Входные грязезащитные покрытия и ковры</category>
+<category id="375" parentId="374">Грязезащитные ковры</category>
+<category id="377" parentId="374">Домашние коврики</category>
+<category id="373" parentId="46">Сушилки для ковров</category>
+<category id="376" parentId="374">Уличные покрытия</category>
+<category id="245">Антисептические и дезинфицирующие средства</category>
+<category id="260" parentId="245">Антибактериальные жидкости для протирки сидений унитаза</category>
+<category id="246" parentId="245">Средства для обработки рук</category>
+<category id="247" parentId="245">Средства для обработки поверхностей</category>
+<category id="248" parentId="245">Диспенсеры и мобильные стойки</category>
+<category id="234">Грязезащитные ковры</category>
+<category id="265">Машинки для чистки обуви</category>
+<category id="263" parentId="265">Аппараты для чистки подошвы</category>
+<category id="262" parentId="265">Крем для обуви, средства для чистки щеток</category>
+<category id="261" parentId="265">Машинки для чистки обуви</category>
+<category id="259">Моющие средства</category>
+<category id="244" parentId="259">Гигиена пищевых производств</category>
+<category id="232" parentId="259">Гигиена профессиональной кухни</category>
+<category id="229" parentId="259">Профессиональная стирка текстиля</category>
+<category id="231" parentId="259">Профессиональная уборка номера</category>
+<category id="192" parentId="259">По уходу за кожей и мебелью</category>
+<category id="60" parentId="259">По уходу за различными поверхностями</category>
+<category id="58" parentId="259">По уходу за окнами</category>
+<category id="61" parentId="259">Жидкое мыло</category>
+<category id="56" parentId="259">По уходу за кухней</category>
+<category id="53" parentId="259">По уходу за полом</category>
+<category id="55" parentId="259">По уходу за ванной и туалетом</category>
+<category id="128" parentId="259">Автохимия</category>
+<category id="235">оборудование</category>
+<category id="266">Подметальные машины</category>
+<category id="267" parentId="266">Механические подметальные машины</category>
+<category id="269" parentId="266">Подметальные машины с сиденьем для оператора</category>
+<category id="268" parentId="266">Подметальные машины толкаемого типа</category>
+<category id="274">Роботы-мойщики окон</category>
+<category id="275" parentId="274">Роботы для мытья окон</category>
+<category id="276" parentId="274">Салфетки для роботов</category>
+<category id="225">Сушилки для рук и фены для волос</category>
+<category id="228" parentId="225">Сушилки для рук</category>
+<category id="227" parentId="225">Фены для волос</category>
+<category id="161">Гостиничные и сервисные тележки</category>
+<category id="162" parentId="161">Гостиничные тележки</category>
+<category id="164" parentId="161">Гостиничные тележки для багажа</category>
+<category id="163" parentId="161">Сервисные тележки</category>
+<category id="125">Инвентарь для мытья окон</category>
+<category id="211" parentId="125">Ведра для мытья стекол</category>
+<category id="206" parentId="125">Держатели</category>
+<category id="210" parentId="125">Комплекты для мытья окон</category>
+<category id="209" parentId="125">Сгоны для мытья окон</category>
+<category id="208" parentId="125">Скребки для стекол</category>
+<category id="207" parentId="125">Сменные лезвия</category>
+<category id="212" parentId="125">Телескопические штанги</category>
+<category id="187" parentId="125">Шубки для мытья окон</category>
+<category id="165">Инвентарь для уборки улиц</category>
+<category id="169" parentId="165">Движки и движки-скреперы для снега</category>
+<category id="168" parentId="165">Лопаты для уборки снега</category>
+<category id="166" parentId="165">Метлы и щетки для уборки улиц</category>
+<category id="170" parentId="165">Скребки и ледорубы</category>
+<category id="136">Роботы-пылесосы</category>
+<category id="133" parentId="136">Аксессуары iRobot</category>
+<category id="77" parentId="136">Роботы-пылесосы</category>
+<category id="179">Салфетки, губки, тряпки, перчатки</category>
+<category id="238" parentId="179">Наборы для уборки пыли</category>
+<category id="181" parentId="179">Губки</category>
+<category id="183" parentId="179">Перчатки</category>
+<category id="180" parentId="179">Салфетки</category>
+<category id="182" parentId="179">Тряпки</category>
+<category id="72">Бизнес-ароматизация</category>
+<category id="222" parentId="72">Жидкостная AROMA WIND</category>
+<category id="221" parentId="72">Небулайзер</category>
+<category id="160" parentId="72">Ротанговые диффузоры</category>
+<category id="93" parentId="72">Жидкостная Ароматизация TRACK</category>
+<category id="92" parentId="72">Аэрозольная ароматизация SPRING AIR</category>
+<category id="69">Диспенсеры и расходные материалы</category>
+<category id="290" parentId="69">Бумажные полотенца</category>
+<category id="70" parentId="69">Диспенсеры для бумажных полотенец</category>
+<category id="291" parentId="69">Туалетная бумага</category>
+<category id="119" parentId="69">Диспенсеры для туалетной бумаги</category>
+<category id="288" parentId="69">Мыло</category>
+<category id="71" parentId="69">Диспенсеры для мыла</category>
+<category id="188" parentId="69">Салфетки</category>
+<category id="135" parentId="69">Диспенсеры для салфеток</category>
+<category id="292" parentId="69">Гигиенические сидения на унитаз</category>
+<category id="134" parentId="69">Диспенсеры для сидений на унитаз</category>
+<category id="289" parentId="69">Освежители воздуха</category>
+<category id="233" parentId="69">Диспенсеры для освежителей воздуха</category>
+<category id="137" parentId="69">Протирочный материал</category>
+<category id="120" parentId="69">Расходные материалы</category>
+<category id="62">Инвентарь для уборки</category>
+<category id="65" parentId="62">Инвентарь для различных поверхностей</category>
+<category id="63" parentId="62">Уборочные тележки</category>
+<category id="64" parentId="62">Швабры</category>
+<category id="114" parentId="64">Держатели</category>
+<category id="113" parentId="64">Мопы</category>
+<category id="115" parentId="64">Швабры в сборе</category>
+<category id="104" parentId="62">Система Vileda ДастМоп для сухой уборки</category>
+<category id="105" parentId="104">Держатели</category>
+<category id="106" parentId="104">Мопы</category>
+<category id="107" parentId="104">Ручки</category>
+<category id="100" parentId="62">Система Vileda КомбиСпид</category>
+<category id="101" parentId="100">Держатели</category>
+<category id="102" parentId="100">Мопы</category>
+<category id="103" parentId="100">Ручки</category>
+<category id="108" parentId="62">Система Vileda СВЕП Дуо Плюс</category>
+<category id="109" parentId="108">Держатели</category>
+<category id="110" parentId="108">Мопы</category>
+<category id="111" parentId="108">Ручки</category>
+<category id="96" parentId="62">Система Vileda УльтраСпид</category>
+<category id="97" parentId="96">Держатели</category>
+<category id="98" parentId="96">Мопы</category>
+<category id="99" parentId="96">Ручки</category>
+<category id="18">Клининговое оборудование</category>
+<category id="19" parentId="18">Поломоечные машины</category>
+<category id="237" parentId="19">С сидением для оператора</category>
+<category id="236" parentId="19">Толкаемого типа</category>
+<category id="22" parentId="19">Аккумуляторная поломоечная машина</category>
+<category id="20" parentId="19">Кабельная поломоечная машина</category>
+<category id="46">Профессиональные пылесосы</category>
+<category id="127" parentId="46">Аккумуляторные пылесосы</category>
+<category id="48" parentId="46">Моющие пылесосы</category>
+<category id="50" parentId="46">Промышленные пылесосы</category>
+<category id="49" parentId="46">Пылеводососы</category>
+<category id="47" parentId="46">Пылесосы для сухой уборки</category>
+<category id="51">Размывочная техника</category>
+<category id="73">Нейтрализация неприятных запахов</category>
+<category id="204" parentId="73">Ecoz</category>
+<category id="132" parentId="73">Restorator</category>
+<category id="83" parentId="73">Ez-Disk</category>
+<category id="85" parentId="73">Nature Fresh</category>
+<category id="89" parentId="73">Optimum 4000</category>
+<category id="90" parentId="73">VaporSHARK</category>
+<category id="66">Протирочный материал</category>
+<category id="216" parentId="66">W2 - Протирочные материалы в рулонах со съемной втулкой</category>
+<category id="217" parentId="66">Диспенсеры для протирочных материалов</category>
+<category id="214" parentId="66">М1 - Рулоны мини с центральной вытяжкой</category>
+<category id="215" parentId="66">М2 - Рулоны с центральной вытяжкой</category>
+<category id="219" parentId="66">М4/M3- Рулоны Reflex с центральной вытяжкой</category>
+<category id="220" parentId="66">Рулонные полотенца с центральной вытяжкой</category>
+<category id="159" parentId="66">Материалы для протирки и очистки</category>
+<category id="68" parentId="66">Губки</category>
+<category id="67" parentId="66">Салфетки</category>
+<category id="74">Урны и пепельницы</category>
+<category id="282" parentId="74">Баки для мусора</category>
+<category id="281" parentId="74">Евро-контейнеры</category>
+<category id="283" parentId="74">Комплектующие для контейнеров и баков</category>
+<category id="279" parentId="74">Комплектующие тест</category>
+<category id="277" parentId="74">Комплектующие</category>
+<category id="186" parentId="74">Контейнеры для мусора</category>
+<category id="185" parentId="74">Урны для раздельного сбора</category>
+<category id="75" parentId="74">Урны для помещений</category>
+<category id="76" parentId="74">Для улицы</category>
+<category id="184" parentId="74">Комплектующие</category>
+</categories>
+<offers>

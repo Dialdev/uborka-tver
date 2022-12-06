@@ -1,0 +1,56 @@
+AddDefaultCharset utf-8
+RewriteEngine On
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule ^.*$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+php_value register_globals 0
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_ACCEPT} image/webp
+    RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
+    RewriteRule ^(path/to/your/images.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+</IfModule>
+<IfModule mod_headers.c>
+    Header append Vary Accept env=REDIRECT_accept
+</IfModule>
+AddType image/webp .webp
+
+Redirect 301 /catalog/antisepticheskie-i-dezinficiruyushhie-sredstva-dlya-ruk/ https://www.uborka-tver.ru/catalog/antisepticheskie-i-dezinficiruyushhie-sredstva/
+Redirect 301 /catalog/produkciya-tork/ https://www.uborka-tver.ru/catalog/gigienicheskaya-produkcia-dlya-tualetnykh-komnat/
+Redirect 301 /catalog/urny-i-pepelnicy/baki-dlya-musora/ https://www.uborka-tver.ru/catalog/urny-i-pepelnicy/baki-i-kontejnery-dlya-razdelnogo-sbora-musora/
+Redirect 301 /catalog/urny-i-pepelnicy/kontejnery-dlya-musora/ https://www.uborka-tver.ru/catalog/urny-i-pepelnicy/baki-i-kontejnery-dlya-razdelnogo-sbora-musora/
+
+
+
+
+
+
+
+Redirect 301 /sredstva-zashhity-ot-nasekomyx-chistyj-dom/ https://www.uborka-tver.ru/
+Redirect 301 /wp-content/themes/holmaxclean/css/custom.css https://www.uborka-tver.ru/
+Redirect 301 /catalog/salfetkigubkitryapkiperchatki/ https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2015/03/Braava_cube.png https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2020/04/prima.png https://www.uborka-tver.ru/
+Redirect 301 /catalog/inventar-dlya-mytya-okon/ https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Движок-для-снега-пластиковый.jpg https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Движок-для-снега-пластиковый1-300x300.jpg https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Движок-для-снега-пластиковый1.jpg https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Алюминиевый-движок-для-снега-300x300.jpg https://www.uborka-tver.ru/
+Redirect 301 /catalog/mashinki-dlya-chistki-obuvi-glavnaya/ https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Алюминиевый-движок-для-снега.jpg https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Движок-для-снега-пластиковый-300x300.jpg https://www.uborka-tver.ru/
+Redirect 301 /wp-content/uploads/2017/08/Алюминиевый-движок-для-снега1.jpg https://www.uborka-tver.ru/
+
+# BEGIN ShortPixelWebp
+
+# END ShortPixelWebp

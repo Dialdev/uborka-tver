@@ -1,0 +1,1964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		
+		<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+		<yml_catalog date="2021-01-26 14:10">
+		<shop>
+			<name>www.uborka-tver.ru</name>
+			<company>www.uborka-tver.ru</company>
+			<url>https://www.uborka-tver.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1" />
+		</currencies>
+		<categories>
+			<category id="2731707003">Товары в наличии</category>
+		</categories>
+		<offers>
+			<offer id="4100375446" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/urny-i-pepelnicy/</url>
+			       <price>19990</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<delivery>true</delivery>
+			       <name>Урны, пепельницы, мусорные баки</name>
+				<description>Урны, пепельницы, мусорные баки</description>
+			</offer>
+			<offer id="1904729804" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ecolab-dermados-dozator-antisepticheskix-sredstv/</url>
+			       <price>2140</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/G101000.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ecolab Dermados Дозатор антисептических средств</name>
+				<description>Локтевой дозатор жидких антисептических средств Эколаб, картриджный. Вместимость — 0,5 л. В озможность регулировки выдачи средства - 0,5 мл, 1 мл, 1,5 мл. Применяется исключительно с химией Эколаб. </description>
+			</offer>
+			<offer id="2272049342" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/akkumulyatornaya-batareya-li-ion-dlya-braava-jet-m6/</url>
+			       <price>6600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/05/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F-Li-ion-%D0%B4%D0%BB%D1%8F-Braava-Jet-M6-218x218.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/05/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F-Li-ion-%D0%B4%D0%BB%D1%8F-Braava-Jet-M6.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Аккумуляторная батарея Li-ion для Braava Jet M6</name>
+				<description>Аккумуляторная батарея Li-ion для Braava Jet M6</description>
+			</offer>
+			<offer id="647920579" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/rezervuar-dlya-braava-jet-m6/</url>
+			       <price>1800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/05/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D1%83%D0%B0%D1%80-%D0%B4%D0%BB%D1%8F-Braava-Jet-M6-218x218.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/05/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D1%83%D0%B0%D1%80-%D0%B4%D0%BB%D1%8F-Braava-Jet-M6.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Резервуар для Braava Jet M6</name>
+				<description>Резервуар для Braava Jet M6</description>
+			</offer>
+			<offer id="2517059196" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/nature-fresh-smennaya-membrana-5-60-dnej-aromat-nejtral-osvezhitel-vozduxa/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/nature-fresh.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Nature Fresh сменная мембрана , 60 дней, аромат Нейтраль. Освежитель воздуха.</name>
+				<description>Nature Fresh сменная мембрана , 60 дней, аромат Нейтраль. Освежитель воздуха. Описание: Сменная мембрана Nature Fresh - предназначена для удаления неприятных запахов. Простая и удобная замена. Рабочий ресурс до 6 месяцев. Рассчитано на помещение до 50 кв. м. В составе используются запатентованная жидкость с содержанием только натуральных эфирных масел. Одной мембраны хватает до 60-ти дней. Интенсивность регулируется отверстием в футляре. </description>
+			</offer>
+			<offer id="3247940555" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/membrana-dlya-pribora-vaporshark/</url>
+			       <price>7000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-VaporSHARK.png</picture>
+				<delivery>true</delivery>
+			       <name>Мембрана Industrial VaporSHARK</name>
+				<description>Описание: Мембрана Vaportek насыщенная натуральными эфирными маслами для безопасного удаления всех неприятных запахов. Используется в приборе VaporSHARK для нейтрализации неприятных запахов в больших помещениях. Vaportek - это инновационная и экологически безопасная технология очистки воздуха от всех неприятных запахов и от бактерий. Её особенностью и основным конкурентным преимуществом является использование исключительно натуральных эфирных масел. </description>
+			</offer>
+			<offer id="2520970244" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/kartridzh-dlya-restorator-max-fill/</url>
+			       <price>10800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-Optimum-40002.png</picture>
+				<delivery>true</delivery>
+			       <name>Картридж для Restorator Max Fill</name>
+				<description>Описание: Картридж Max Fill (250 г) высокой степени очистки для прибора Restorator. Картридж рассчитан на 270 часов непрерывной работы. Vaportek - это инновационная и экологически безопасная технология очистки воздуха от всех неприятных запахов и от бактерий. Её особенностью и основным конкурентным преимуществом является использование исключительно натуральных эфирных масел. </description>
+			</offer>
+			<offer id="3584374434" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/kartridzh-dlya-restorator-protivodymnyj/</url>
+			       <price>8900</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-Optimum-40001.png</picture>
+				<delivery>true</delivery>
+			       <name>Картридж для Restorator противодымный</name>
+				<description>Описание: Картридж для прибора Restorator противодымный SOS oil (150 г). Применяется в помещениях после пожара, убирает запах гари. Vaportek - это инновационная и экологически безопасная технология очистки воздуха от всех неприятных запахов и от бактерий. Её особенностью и основным конкурентным преимуществом является использование исключительно натуральных эфирных масел. </description>
+			</offer>
+			<offer id="2579823662" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/kartridzh-dlya-restorator/</url>
+			       <price>8900</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/%D0%9A%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-Optimum-40004.png</picture>
+				<delivery>true</delivery>
+			       <name>Картридж для Restorator</name>
+				<description>Описание: Картридж для прибора Restorator высокой степени очистки (150 г). Используется в помещениях, где необходима быстрая очистка воздуха. Vaportek - это инновационная и экологически безопасная технология очистки воздуха от всех неприятных запахов и от бактерий. Её особенностью и основным конкурентным преимуществом является использование исключительно натуральных эфирных масел. </description>
+			</offer>
+			<offer id="1877062568" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-nejtral-limon/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/08/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Нейтраль- Лимон</name>
+				<description>Описание: Сочетание нетрокс-гаммы и эфирного масла лимона, надежно удаляют запахи и препятствуют их появлению. Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="3151294157" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-orxideya/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/08/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Орхидея</name>
+				<description>Описание: Восхитительный цветочный аромат для нейтрализации неприятных запахов.Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="3841266841" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-kedr-antimol/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/07/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Кедр (антимоль)</name>
+				<description>Описание: Сменные диски с натуральным эфирным маслом Кедра. Природная забота о ваших вещах. Используется в платяных шкафах, гардеробных, а также во время хранения и перевозки одежды. Надежно защищает от моли, при этом состав полностью натурален. Нетоксично!Срок использования: 45 дней после вскрытия упаковки. </description>
+			</offer>
+			<offer id="3274027956" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-svezhest/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/08/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-4.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Свежесть</name>
+				<description>Описание: Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="1809826600" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-nejtral/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/07/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Нейтраль</name>
+				<description>Описание: Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="194548797" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-mentol/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/08/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Ментол</name>
+				<description>Описание: Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="3146639268" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-relaks/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/08/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-3.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Релакс</name>
+				<description>Описание: Композиция с утонченным цветочным ароматом для нейтрализации запахов.Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="41341908" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-limon/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/07/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-4.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Лимон</name>
+				<description>Описание: Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Освежающий цитрусовый аромат лимона. Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="1403840951" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/ez-disk-vanil/</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/07/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-3.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ez-Disk Ваниль</name>
+				<description>Описание: Сменные диски для удаления запахов в помещении. Предназначен для использования в EZ-Twist футляре или приборе Track. Высокое содержание натуральных эфирных масел обеспечивает очистку воздуха от всех органических запахов (табачного дыма, пота, еды, плесени и т.д.). Нежный карамельно-сливочный запах ванили. Рекомендуемые помещения: Примерочные, кабинеты, палаты с лежачими больными, автомобили, туалетные комнаты. </description>
+			</offer>
+			<offer id="3562212077" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/restorator/</url>
+			       <price>26500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/Restorator-218x218.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/Restorator.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/Restorator-1.png</picture>
+				<delivery>true</delivery>
+			       <name>Restorator</name>
+				<description>Описание: Прибор Restorator предназначен для помещений где необходимо произвести срочную очистку воздуха. При включении Restorator идет обдув мембраны, через поры которой идет испарение эфирных масел. Таким образом происходит очистка воздуха. Рассчитан прибор на помещения до 200 кв.м. Для очистки такого помещения прибор должен работать от 40 мин до 1,5 часов. </description>
+				<param name="Вес" unit="кг">1.7</param>
+			</offer>
+			<offer id="212264956" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/vaporshark/</url>
+			       <price>64000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/VaporShark-1.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/VaporShark.png</picture>
+				<delivery>true</delivery>
+			       <name>Прибор для очистки воздуха VaporSHARK</name>
+				<description>Описание: Прибор VaporSHARK предназначен для удаления неприятных запахов в помещениях большой площади до 500 кв.м. Прибор представляет собой металлический корпус с размещенным внутри вентилятором. Работает от сети. Внутрь прибора размещаются мембраны с эфирными маслами, до 5 штук. Срок действия мембран до 270 часов. Прибор устанавливается в помещении стационарно, либо подключается к системе вентиляции. Места применения: Помещения с плохой вытяжкой, зоомагазины, цеха, автомойки, больницы, помещения где курят, помещения с постоянным источником неприятного запаха. </description>
+				<param name="Вес" unit="кг">5.8</param>
+			</offer>
+			<offer id="2321861918" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tualetnaya-bumaga-tork-mid-size-v-midi-rulonax-myagkaya-t6-2-slojnaya-belaya-27-rulonov-po-90-metrov/</url>
+			       <price>4378</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/09/127520-i.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/09/127520.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork Mid-size в миди-рулонах мягкая T6 2-слойная белая 27 рулонов по 90 метров 127520</name>
+				<description>Туалетная бумага Tork Mid-size в миди-рулонах мягкая T6 2-слойная белая 27 рулонов по 90 метров 127520. Характерные преимущества: Система- Т6 - Туалетная бумага в компактных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">9.9</param>
+				<param name="Длина рулона" unit="м">90</param>
+				<param name="Диаметр рулона" unit="см">13.2</param>
+			</offer>
+			<offer id="1587727468" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpress-nastolnyj-dispenser-dlya-listovyx-polotenec-slozheniya-multifold/</url>
+			       <price>6298</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/12/H2_Xpress_Counter-top-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2017/12/H2_Xpress_Counter_Top.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress для листовых полотенец сложения Multifold</name>
+				<description>Описание: Настольный диспенсер для листовых полотенец. Характерные преимущества: Сочетание нержавеющей стали и пластика обеспечивает надежность и легкость диспенсеров. На поверхности не остается отпечатков пальцев и мыльных разводов. Два режима работы замка: закрывается на ключ или работает как кнопка. Смотровые окошки для быстрого контроля наличия расходного материала. </description>
+			</offer>
+			<offer id="1402341075" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/kimberly-clark-dispenser-dlya-zhidkogo-pennogo-myla-aquarius-1-l-belyj-6948/</url>
+			       <price>500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/03/6982-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/03/6982.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/03/6982-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Kimberly-Clark Диспенсер компактный для кассетного пенного мыла на 200мл 6982</name>
+				<description>Kimberly-Clark Диспенсер компактный для кассетного пенного мыла на 200мл 6982. Основные преимущества: ударопрочный пластик ABS. одно из самых компактных решений доступное на рынке. высокая емкость картриджа - 500 доз в одном картридже. продукция сертифицирована и имеет стандарты качества ISO9001 и ISO14001. </description>
+				<param name="Вес" unit="кг">0.6</param>
+				<param name="Высота" unit="см">19</param>
+				<param name="Ширина" unit="см">9</param>
+			</offer>
+			<offer id="1549299650" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpress-multifold-nastolnyj-dispenser-dlya-listovyx-polotenec-552208/</url>
+			       <price>3765</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552208-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552208.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552208-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress Multifold настольный диспенсер для листовых полотенец 552208</name>
+				<description>Tork Xpress Multifold настольный диспенсер для листовых полотенец 552208. Характерные преимущества: Н2 - Полотенца сложения Multifold. </description>
+				<param name="Color">Черный</param>
+				<param name="Длина" unit="см">11.6</param>
+				<param name="Высота" unit="см">21.8</param>
+				<param name="Ширина" unit="см">32.3</param>
+			</offer>
+			<offer id="1850159247" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpress-multifold-nastolnyj-dispenser-dlya-listovyx-polotenec-460005/</url>
+			       <price>6298</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/460005-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/460005.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress Multifold настольный диспенсер для листовых полотенец 460005</name>
+				<description>Tork Xpress Multifold настольный диспенсер для листовых полотенец 460005. Характерные преимущества: Н2 - Полотенца сложения Multifold. </description>
+				<param name="Color">Серый</param>
+				<param name="Длина" unit="см">11.6</param>
+				<param name="Высота" unit="см">21.8</param>
+				<param name="Ширина" unit="см">32.3</param>
+			</offer>
+			<offer id="964496474" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpress-multifold-nastolnyj-dispenser-dlya-listovyx-polotenec-552200/</url>
+			       <price>3765</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552200-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552200-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/552200.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress Multifold настольный диспенсер для листовых полотенец 552200</name>
+				<description>Tork Xpress Multifold настольный диспенсер для листовых полотенец 552200. Характерные преимущества: Н2 - Полотенца сложения Multifold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">11.6</param>
+				<param name="Высота" unit="см">21.8</param>
+				<param name="Ширина" unit="см">32.3</param>
+			</offer>
+			<offer id="4012488740" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tork-xpressnap-dispenser-dlya-salfetok-greckij-orex-273002/</url>
+			       <price>4913</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/273002-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/273002.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/273002-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Tork Xpressnap Диспенсер для салфеток— грецкий орех 273002</name>
+				<description>Tork Tork Xpressnap Диспенсер для салфеток— грецкий орех 273002. Характерные преимущества: Н2 - N4 - Салфетки Interfold. </description>
+				<param name="Color">Коричневый</param>
+				<param name="Длина" unit="см">13.6</param>
+				<param name="Высота" unit="см">19.3</param>
+				<param name="Ширина" unit="см">20.3</param>
+			</offer>
+			<offer id="4013551881" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-tualetnoj-bumagi-mid-size-v-midi-rulonax-2/</url>
+			       <price>4048</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/557508.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для туалетной бумаги Mid-size в миди рулонах Т6 пластиковый черный 557508</name>
+				<description>Tork диспенсер для туалетной бумаги Mid-size в миди рулонах Т6 пластиковый черный 557508. Характерные преимущества: Система- T6- Туалетная бумага в компактных рулонах. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">344</param>
+				<param name="Ширина" unit="мм">184</param>
+			</offer>
+			<offer id="2166596984" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-counterfold-dispenser-dlya-salfetok-dlya-linii-razdachi/</url>
+			       <price>9614</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/271600-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Counterfold диспенсер для салфеток для линии раздачи N1 металлический 271600</name>
+				<description>Tork Counterfold диспенсер для салфеток для линии раздачи N1 металлический 271600. Характерные преимущества: Система- N1 - Салфетки 30x33 / 32x33. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">107</param>
+				<param name="Ширина" unit="мм">189</param>
+			</offer>
+			<offer id="3215424277" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-bezvorsovyj-netkanyj-material-v-vedre-dispensere-190491/</url>
+			       <price>1770</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/190491-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/12/190491.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork безворсовый нетканый материал в ведре-диспенсере 190491</name>
+				<description>Характерные преимущества: Система-W10 - Протирка. </description>
+				<param name="Color">Бирюзовый</param>
+				<param name="Ширина" unit="см">16.5</param>
+				<param name="Длина листа" unit="см">30</param>
+				<param name="Длина рулона" unit="см">16</param>
+			</offer>
+			<offer id="3315954588" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-tualetnoj-bumagi-mid-size-v-midi-rulonax/</url>
+			       <price>4048</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/5575001.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/557500.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для туалетной бумаги Mid-size в миди рулонах Т6 пластиковый белый 557500</name>
+				<description>Tork диспенсер для туалетной бумаги Mid-size в миди рулонах Т6 пластиковый белый 557500. Характерные преимущества: Система- T6- Туалетная бумага в компактных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">344</param>
+				<param name="Ширина" unit="мм">184</param>
+			</offer>
+			<offer id="35909892" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-tualetnoj-bumagi-v-standartnyx-rulonax-2/</url>
+			       <price>4936</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/557008.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для туалетной бумаги в стандартных рулонах T4 пластиковый черный 557008</name>
+				<description>Tork диспенсер для туалетной бумаги в стандартных рулонах T4 пластиковый черный 557008. Характерные преимущества: Система- T4-Туалетная бумага в стандартных рулонах. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">158</param>
+				<param name="Ширина" unit="мм">286</param>
+			</offer>
+			<offer id="3718821463" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/trexslojnaya-tualetnaya-bumaga-tork-mid-size-v-midi-rulonax/</url>
+			       <price>5480</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/127510.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/127510-66_o_del.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork Mid-size в миди-рулонах ультрамягкая T6 3-слойная белая 27 рулонов по 70 метров 127510</name>
+				<description>Туалетная бумага Tork Mid-size в миди-рулонах ультрамягкая T6 3-слойная белая 27 рулонов по 70 метров 127510. Характерные преимущества: Система- Т6 - Туалетная бумага в компактных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">9.9</param>
+				<param name="Длина рулона" unit="м">70</param>
+				<param name="Диаметр рулона" unit="см">13.2</param>
+			</offer>
+			<offer id="2163031873" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-tualetnoj-bumagi-v-standartnyx-rulonax/</url>
+			       <price>4936</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/557000.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для туалетной бумаги в стандартных рулонах T4 пластиковый белый 557000</name>
+				<description>Tork диспенсер для туалетной бумаги в стандартных рулонах T4 пластиковый белый 557000. Характерные преимущества: Система- T4-Туалетная бумага в стандартных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">158</param>
+				<param name="Ширина" unit="мм">286</param>
+			</offer>
+			<offer id="3815616841" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-vedro-s-bezvorsovym-materialom-dlya-ochistki-190492/</url>
+			       <price>2481</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/190592-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/190592.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/190592-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Ведро с безворсовым материалом для очистки 190492</name>
+				<description>Tork Ведро с безворсовым материалом для очистки 190492. Характерные преимущества: Система-W10 - Большое ведерко. </description>
+				<param name="Color">Бирюзовый</param>
+				<param name="Ширина" unit="см">16.5</param>
+				<param name="Длина листа" unit="см">30</param>
+				<param name="Длина рулона" unit="см">16</param>
+			</offer>
+			<offer id="3702302961" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tualetnaya-bumaga-v-standartnyx-rulonchikax-myagkaya/</url>
+			       <price>141</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/120320.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork туалетная бумага в стандартных рулончиках мягкая Т4 2-слойная 8 рулонов по 23 метра 120320</name>
+				<description>Tork туалетная бумага в стандартных рулончиках мягкая Т4 2-слойная 8 рулонов по 23 метра 120320. Характерные преимущества: Система- Т4 - Туалетная бумага в стандартных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">12.5</param>
+				<param name="Ширина рулона" unit="см">9.5</param>
+				<param name="Длина рулона" unit="м">23</param>
+				<param name="Диаметр рулона" unit="см">10.9</param>
+			</offer>
+			<offer id="2513408568" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aerozolnyj-osvezhitel-vozduxa-nejtralizator-zapaxov/</url>
+			       <price>1113</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236070.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork аэрозольный освежитель воздуха А2 нейтрализатор запахов до 20 кв. м. 236070</name>
+				<description>Tork аэрозольный освежитель воздуха А2 нейтрализатор запахов до 20 кв. м. 236070. Характерные преимущества: Высокая эффективность и стойкий аромат для контроля неприятных запахов. Подходит для туалетных комнат площадью до 20 кв. м. </description>
+			</offer>
+			<offer id="3386365728" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aerozolnyj-osvezhitel-vozduxa-tropicheskij-aromat/</url>
+			       <price>1113</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562000-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236051.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236070-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork аэрозольный освежитель воздуха A2 тропический аромат до 20 кв.м. 236051</name>
+				<description>Tork аэрозольный освежитель воздуха A2 тропический аромат до 20 кв.м. 236051. Характерные преимущества: Высокая эффективность и стойкий аромат для контроля неприятных запахов. Подходит для туалетных комнат площадью до 20 кв. м. </description>
+			</offer>
+			<offer id="3989194330" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aerozolnyj-osvezhitel-vozduxa-citrusovyj-aromat/</url>
+			       <price>1113</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562000-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236050.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236070-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork аэрозольный освежитель воздуха A2 цитрусовый аромат до 20 кв. м. 236050</name>
+				<description>Tork аэрозольный освежитель воздуха A2 цитрусовый аромат до 20 кв. м. 236050. Характерные преимущества: Высокая эффективность и стойкий аромат для контроля неприятных запахов. Подходит для туалетных комнат площадью до 20 кв. м. </description>
+			</offer>
+			<offer id="2654868758" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-listovoj-tualetnoj-bumagi-t3-2/</url>
+			       <price>1709</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/5560081.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/556008.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для листовой туалетной бумаги Т3 пластиковый черный 556008</name>
+				<description>Tork диспенсер для листовой туалетной бумаги Т3 пластиковый черный 556008. Характерные преимущества: Система- Т3 - Листовая туалетная бумага. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">271</param>
+				<param name="Ширина" unit="мм">159</param>
+			</offer>
+			<offer id="3384290945" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aerozolnyj-osvezhitel-vozduxa-cvetochnyj-aromat/</url>
+			       <price>1113</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562000-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236052.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/236070-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork аэрозольный освежитель воздуха А2 цветочный аромат до 20 кв.м. 236052</name>
+				<description>Tork аэрозольный освежитель воздуха А2 цветочный аромат до 20 кв.м. 236052. Характерные преимущества: Высокая эффективность и стойкий аромат для контроля неприятных запахов. Подходит для туалетных комнат площадью до 20 кв. м. </description>
+			</offer>
+			<offer id="848484585" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tverdyj-osvezhitel-vozduxa-citrusovyj-aromat/</url>
+			       <price>4470</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562500-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/239014.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%8B%D0%B91.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork твердый освежитель воздуха А2 цитрусовый аромат до 30 кв.м. 20 пластин в упаковке 236014</name>
+				<description>Tork твердый освежитель воздуха А2 цитрусовый аромат до 30 кв.м. 20 пластин в упаковке 236014. Характерные преимущества: Легко закрепляется в любом месте. Срок действия пластины: 3—4 недели. </description>
+			</offer>
+			<offer id="2439608227" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-derzhatel-dlya-tverdogo-osvezhitelya-vozduxa/</url>
+			       <price>156</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562500-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562500-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562500.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork держатель для твердого освежителя воздуха A2 пластиковый белый 562500</name>
+				<description>Tork держатель для твердого освежителя воздуха A2 пластиковый белый 562500. Характерные преимущества: Система- A2 - Air freshener disc system. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">86</param>
+				<param name="Ширина" unit="мм">71</param>
+			</offer>
+			<offer id="2948773111" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tverdyj-osvezhitel-vozduxa-cvetochnyj-aromat/</url>
+			       <price>4470</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/562500-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/239015.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6-%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%8B%D0%B91.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork твердый освежитель воздуха А2 цветочный аромат до 30 кв.м. 20 пластин в упаковке 236015</name>
+				<description>Tork твердый освежитель воздуха А2 цветочный аромат до 30 кв.м. 20 пластин в упаковке 236015. Характерные преимущества: Легко закрепляется в любом месте. Срок действия пластины: 3—4 недели. </description>
+			</offer>
+			<offer id="1039551679" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-dispenser-dlya-listovoj-tualetnoj-bumagi-t3/</url>
+			       <price>1709</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/556000.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/5560001.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для листовой туалетной бумаги пластиковый белый 556000</name>
+				<description>Tork диспенсер для листовой туалетной бумаги пластиковый белый 556000. Характерные преимущества: Система- Т3 - Листовая туалетная бумага. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">271</param>
+				<param name="Ширина" unit="мм">159</param>
+			</offer>
+			<offer id="358699198" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-fastfold-dispenser-dlya-salfetok-nastolnyj/</url>
+			       <price>3246</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/04/271800-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Fastfold диспенсер для салфеток настольный N2 металлический 271800</name>
+				<description>Tork Fastfold диспенсер для салфеток настольный N2 металлический 271800. Характерные преимущества: Система- N2 - Салфетки 25х30. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">131</param>
+				<param name="Ширина" unit="мм">101</param>
+			</offer>
+			<offer id="4207729384" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/polotenca-v-rulonax-myagkie-tork-matic-advanced/</url>
+			       <price>5433</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290067.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290067-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic полотенца в рулонах мягкие H2 2-слойные 6 штук по 150 метров 290067</name>
+				<description>Tork Matic полотенца в рулонах мягкие H2 2-слойные 6 штук по 150 метров 290067. Характерные преимущества: Система- Н1 - Полотенца в рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">21.0</param>
+				<param name="Длина рулона" unit="м">150</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="311128615" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkuniversal-zz-slozheniya/</url>
+			       <price>339</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/2901581.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290158.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Листовые полотенца Tork Singlefold качества Universal H3 1-слойные 300 штук в упаковке 290158</name>
+				<description>Листовые полотенца Tork Singlefold качества Universal H3 1-слойные 300 штук в упаковке 290158. Характерные преимущества: Система- Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">23.0</param>
+				<param name="Ширина" unit="см">23.0</param>
+			</offer>
+			<offer id="819166962" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/polotenca-v-rulonax-myagkie-tork-matic-premium/</url>
+			       <price>4787</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/2900163.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic полотенца в рулонах мягкие H1 2-слойные 6 штук по 100 метров 290016</name>
+				<description>Tork Matic полотенца в рулонах мягкие H1 2-слойные 6 штук по 100 метров 290016. Характерные преимущества: Система- Н1 - Полотенца в рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">21.0</param>
+				<param name="Длина рулона" unit="м">100</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="2455249157" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tualetnaya-bumaga-mid-size-v-midi-rulonax/</url>
+			       <price>4428</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/127530.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/127530_c.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork Mid-size в миди-рулонах T6 2-слойная белая 27 рулонов по 100 метров 127530</name>
+				<description>Туалетная бумага Tork Mid-size в миди-рулонах T6 2-слойная белая 27 рулонов по 100 метров 127530. Характерные преимущества: Система- Т6 - Туалетная бумага в компактных рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">9.9</param>
+				<param name="Длина рулона" unit="м">100</param>
+				<param name="Диаметр рулона" unit="см">13.2</param>
+			</offer>
+			<offer id="3670599959" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tualetnaya-bumaga-v-mini-rulonax-tork-premium/</url>
+			       <price>3236</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/120243.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork в мини-рулонах мягкая Т2 2-слойная 12 рулонов по 170 метров 120243</name>
+				<description>Туалетная бумага Tork в мини-рулонах мягкая Т2 2-слойная 12 рулонов по 170 метров 120243. Характерные преимущества: Система- T2 — Туалетная бумага в рулонах Mini Jumbo. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">14</param>
+				<param name="Ширина рулона" unit="см">9.5</param>
+				<param name="Длина рулона" unit="м">170</param>
+				<param name="Диаметр рулона" unit="см">19</param>
+			</offer>
+			<offer id="1492902541" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-tork-zz-slozheniya-zelenye/</url>
+			       <price>349</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/2901791.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290179.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Singlefold сложения ZZ H3 250 штук в упаковке 290179</name>
+				<description>Tork листовые полотенца Singlefold сложения ZZ H3 250 штук в упаковке 290179. Характерные преимущества: Система- Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Color">Зеленый</param>
+				<param name="Длина" unit="см">23.0</param>
+				<param name="Ширина" unit="см">24.8</param>
+			</offer>
+			<offer id="107224472" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-smartone-dispenser-dlya-tualetnoj-bumagi/</url>
+			       <price>10358</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/12/4720541.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork SmartOne диспенсер для туалетной бумаги Т8 металлический 472054</name>
+				<description>Tork SmartOne диспенсер для туалетной бумаги Т8 металлический 472054. Характерные преимущества: Система- T8. </description>
+				<param name="Высота" unit="мм">369</param>
+				<param name="Ширина" unit="мм">272</param>
+			</offer>
+			<offer id="2131878321" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-ochistitel-dlya-sidenya-unitaza-420302/</url>
+			       <price>605</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2020/11/420302.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork очиститель для сиденья унитаза 420302</name>
+				<description>Характерные преимущества: Система- S2 - Жидкое мыло мини. </description>
+				<param name="Объем" unit="ml">475</param>
+			</offer>
+			<offer id="942287789" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/polotenca-v-rulonax-ultra-dlina-tork-matic/</url>
+			       <price>6909</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290059.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290059-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic полотенца в рулонах ультрадлина H1 1-слойные 6 штук по 280 метров 290059</name>
+				<description>Tork Matic полотенца в рулонах ультрадлина H1 1-слойные 6 штук по 280 метров 290059. Характерные преимущества: Система- Н1 - Полотенца в рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">21.0</param>
+				<param name="Длина рулона" unit="м">280</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="1088180043" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkmultifolduniversal/</url>
+			       <price>138</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/471102.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress листовые полотенца сложения Multifold H2 2-слойные 190 штук в упаковке 471103</name>
+				<description>Tork Xpress листовые полотенца сложения Multifold H2 2-слойные 190 штук в упаковке 471103. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Длина" unit="см">23.4</param>
+				<param name="Ширина" unit="см">21.3</param>
+			</offer>
+			<offer id="1351175341" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-tork-dlya-tela-i-volos-mini/</url>
+			       <price>467</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/4206521.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Жидкое мыло Tork для тела и волос мини S1 500 мл 420652</name>
+				<description>Жидкое мыло Tork для тела и волос мини S1 500 мл 420652. Характерные преимущества: Система S1 - Жидкое Мыло. </description>
+				<param name="Объем" unit="ml">500</param>
+			</offer>
+			<offer id="3843052422" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/dispenser-dlya-salfetok-tork-xpressnap-2/</url>
+			       <price>3120</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/06/12.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/06/2.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpressnap диспенсер для линии раздачи N4 пластиковый серый 272513</name>
+				<description>Tork Xpressnap диспенсер для линии раздачи N4 пластиковый серый 272513. Характерные преимущества: Система- N4 - Салфетки Interfold. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">145</param>
+				<param name="Ширина" unit="мм">191</param>
+			</offer>
+			<offer id="1631011437" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/dispenser-nastolnyj-dlya-salfetok-tork-2/</url>
+			       <price>1997</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/06/14.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpressnap диспенсер настольный N4 пластиковый черный 272611</name>
+				<description>Tork Xpressnap диспенсер настольный N4 пластиковый черный 272611. Характерные преимущества: Система- N4 — Салфетки Interfold. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">155</param>
+				<param name="Ширина" unit="мм">201</param>
+			</offer>
+			<offer id="3100647232" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkmultifold-myagkie/</url>
+			       <price>237</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/1002881.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/100288.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress листовые полотенца сложения Multifold мягкие H2 2-слойные 110 штук в упаковке 100288</name>
+				<description>Tork Xpress листовые полотенца сложения Multifold мягкие H2 2-слойные 110 штук в упаковке 100288. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">34.0</param>
+				<param name="Ширина" unit="см">21.2</param>
+			</offer>
+			<offer id="2561586539" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-mini-singlefold-zz-i-c-slozheniya-2/</url>
+			       <price>2358</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553108-5.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553108.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553108-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork мини-диспенсер для листовых полотенец Singlefold сложения ZZ и С H3 пластиковый черный 553108</name>
+				<description>Tork мини-диспенсер для листовых полотенец Singlefold сложения ZZ и С H3 пластиковый черный 553108. Характерные преимущества: Система- H3 - Полотенца сложения ZZ и C. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">332</param>
+			</offer>
+			<offer id="2168435970" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tualetnaya-bumaga-tork-advanced-mini-t2/</url>
+			       <price>2245</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/120231.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork туалетная бумага в мини-рулонах 2-слойная белая 12 рулонов по 170 метров 120231</name>
+				<description>Tork туалетная бумага в мини-рулонах 2-слойная белая 12 рулонов по 170 метров 120231. Характерные преимущества: Система- T2 — Туалетная бумага в рулонах Mini Jumbo. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">14</param>
+				<param name="Ширина рулона" unit="см">9.5</param>
+				<param name="Длина рулона" unit="м">170</param>
+				<param name="Диаметр рулона" unit="см">19</param>
+			</offer>
+			<offer id="4241906491" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-tork-zz-slozheniya-3/</url>
+			       <price>429</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/1002781.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/100278.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Singlefold сложения ZZ ультрамягкие H3 2-слойные 200 штук в упаковке 100278</name>
+				<description>Tork листовые полотенца Singlefold сложения ZZ ультрамягкие H3 2-слойные 200 штук в упаковке 100278. Характерные преимущества: Система- Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">23.0</param>
+				<param name="Ширина" unit="см">22.6</param>
+			</offer>
+			<offer id="2743126933" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkmultifoldpremium/</url>
+			       <price>243</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/1202881.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/120288.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress листовые полотенца сложения Multifold мягкие H2 2-слойные 136 штук в упаковке 120288</name>
+				<description>Tork Xpress листовые полотенца сложения Multifold мягкие H2 2-слойные 136 штук в упаковке 120288. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">34</param>
+				<param name="Ширина" unit="см">21.2</param>
+			</offer>
+			<offer id="3595627832" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkadvanced-myagkie/</url>
+			       <price>169</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/471108.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Advanced мягкие H2 2-слойные 190 штук в упаковке 471108</name>
+				<description>Tork листовые полотенца Advanced мягкие H2 2-слойные 190 штук в упаковке 471108. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">23.4</param>
+				<param name="Ширина" unit="см">21.3</param>
+			</offer>
+			<offer id="1675988243" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-matic-advanced-polotenca-v-rulonax/</url>
+			       <price>3227</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/120067.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/120067-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic полотенца в рулонах H1 2-слойные 6 штук по 150 метров 120067</name>
+				<description>Tork Matic полотенца в рулонах H1 2-слойные 6 штук по 150 метров 120067. Характерные преимущества: Система- Н1 - Полотенца в рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">21.0</param>
+				<param name="Длина рулона" unit="м">150</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="754987334" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/dispenser-nastolnyj-dlya-salfetok-tork/</url>
+			       <price>1997</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/06/13.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpressnap диспенсер настольный N4 пластиковый серый 272613</name>
+				<description>Tork Xpressnap диспенсер настольный N4 пластиковый серый 272613. Характерные преимущества: Система- N4 — Салфетки Interfold. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">155</param>
+				<param name="Ширина" unit="мм">201</param>
+			</offer>
+			<offer id="3468120390" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/dispenser-dlya-salfetok-tork-xpressnap/</url>
+			       <price>4985</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/06/11.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpressnap диспенсер большой емкости N4 пластиковый серый 272213</name>
+				<description>Tork Xpressnap диспенсер большой емкости N4 пластиковый серый 272213. Характерные преимущества: Система- N4 - Салфетки Interfold. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">622</param>
+				<param name="Ширина" unit="мм">235</param>
+			</offer>
+			<offer id="1632498883" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-mini-singlefold-zz-i-c-slozheniya/</url>
+			       <price>2358</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553100-5.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553100.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/553100-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork мини-диспенсер для листовых полотенец Singlefold сложения ZZ и C H3 пластиковый белый 553100</name>
+				<description>Tork мини-диспенсер для листовых полотенец Singlefold сложения ZZ и C H3 пластиковый белый 553100. Характерные преимущества: Система- H3 - Полотенца сложения ZZ и C. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">332</param>
+			</offer>
+			<offer id="1220942173" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-tork-c-slozheniya-2/</url>
+			       <price>165</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/471111.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Singlefold C-сложения H3 2-слойные 120 штук в упаковке 471111</name>
+				<description>Tork листовые полотенца Singlefold C-сложения H3 2-слойные 120 штук в упаковке 471111. Характерные преимущества: Система- Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Длина" unit="см">27.5</param>
+				<param name="Ширина" unit="см">24.0</param>
+			</offer>
+			<offer id="1354370762" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-tork-c-slozheniya/</url>
+			       <price>196</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/471114.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Singlefold C-сложения H3 2-слойные 120 штук в упаковке 471114</name>
+				<description>Tork листовые полотенца Singlefold C-сложения H3 2-слойные 120 штук в упаковке 471114. Характерные преимущества: Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">27.5</param>
+				<param name="Ширина" unit="см">24.0</param>
+			</offer>
+			<offer id="1439092505" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-tork-zz-slozheniya/</url>
+			       <price>397</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/2901631.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/290163.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовые полотенца Singlefold сложения ZZ H3 2-слойные 258 штук в упаковке 290163</name>
+				<description>Tork листовые полотенца Singlefold сложения ZZ H3 2-слойные 258 штук в упаковке 290163. Характерные преимущества: Система- Н3 - Полотенца сложения ZZ и С. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">23.0</param>
+				<param name="Ширина" unit="см">24.8</param>
+			</offer>
+			<offer id="4195609023" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tualetnaya-bumaga-tork-universal-t2/</url>
+			       <price>864</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/1201972.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/12019711.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork Universal мини T2 1-слойная белая 12 рулонов по 200 метров 120197</name>
+				<description>Туалетная бумага Tork Universal мини T2 1-слойная белая 12 рулонов по 200 метров 120197. Характерные преимущества: Система- T2 — Туалетная бумага в рулонах Mini Jumbo. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">9.5</param>
+				<param name="Длина рулона" unit="м">200</param>
+				<param name="Диаметр рулона" unit="см">15.8</param>
+			</offer>
+			<offer id="426001511" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-temno-zelenye-2/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/13.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/12.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные темно-зеленые 200 штук в упаковке 477827</name>
+				<description>Tork салфетки 24х24 см 2-слойные темно-зеленые 200 штук в упаковке 477827. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Зеленый</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="86219198" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-tork-dlya-tela-i-volos/</url>
+			       <price>521</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/421601.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Жидкое мыло Tork для тела и волос S1 1 л 420601</name>
+				<description>Жидкое мыло Tork для тела и волос S1 1 л 420601. Характерные преимущества: Система S1 - Жидкое Мыло-пена. </description>
+				<param name="Объем" unit="ml">1000</param>
+			</offer>
+			<offer id="4003513079" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-temno-zelenye/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/03.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные темно-зеленые 500 штук в упаковке 478659</name>
+				<description>Tork салфетки 25х25 см 1-слойные темно-зеленые 500 штук в упаковке 478659. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Зеленый</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="588888968" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-temno-sinie-2/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/10.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/07.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/08.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные темно-синие 200 штук в упаковке 477825</name>
+				<description>Tork салфетки 24х24 см 2-слойные темно-синие 200 штук в упаковке 477825. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="2099689427" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-listovaya-tualetnaya-bumaga/</url>
+			       <price>4408</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/12/114271.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/01/Tork-%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%82%D1%83%D0%B0%D0%BB%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B02.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork листовая туалетная бумага Т3 2-слойная 36 пачек по 242 листа114271</name>
+				<description>Tork листовая туалетная бумага Т3 2-слойная 36 пачек по 242 листа114271. Характерные преимущества: Система- Т3 - Листовая туалетная бумага. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">19.0</param>
+				<param name="Ширина" unit="см">11.0</param>
+			</offer>
+			<offer id="3251323908" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-torkmultifold/</url>
+			       <price>148</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/1402991.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/140299.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Листовые полотенца Tork Multifold H2 2-слойные 226 штук в упаковке 140299</name>
+				<description>Листовые полотенца Tork Multifold H2 2-слойные 226 штук в упаковке 140299. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">25.5</param>
+				<param name="Ширина" unit="см">21.2</param>
+			</offer>
+			<offer id="4049481254" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-elevation-dlya-myla-peny-2/</url>
+			       <price>2705</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/5615081.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/561508-00.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/561508-06.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для мыла-пены S4 пластиковый черный 1 л 561508</name>
+				<description>Tork диспенсер для мыла-пены S4 пластиковый черный 1 л 561508. Характерные преимущества: Система- S4 — Жидкое мыло-пена. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">286</param>
+				<param name="Ширина" unit="мм">113</param>
+			</offer>
+			<offer id="292142620" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-temno-sinie/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/05.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные темно-синие 500 штук в упаковке 478667</name>
+				<description>Tork салфетки 25х25 см 1-слойные темно-синие 500 штук в упаковке 478667. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Синий</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="2570507691" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-tork-ultramyagkoe/</url>
+			       <price>538</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/420701.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Ультрамягкое жидкое мыло-крем Tork S1 1 л 420701</name>
+				<description>Ультрамягкое жидкое мыло-крем Tork S1 1 л 420701. Характерные преимущества: Система- S1. </description>
+				<param name="Объем" unit="мл">1000</param>
+			</offer>
+			<offer id="3513461798" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/mylo-pena-tork-premium-myagkoe/</url>
+			       <price>716</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/5205011.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork картридж мыло-пена Premium мягкое S4 1 л 520501</name>
+				<description>Tork картридж мыло-пена Premium мягкое S4 1 л 520501. Характерные преимущества: СистемаS4 - Жидкое Мыло-пена. </description>
+				<param name="Color">Белый</param>
+				<param name="Объем" unit="ml">1000</param>
+			</offer>
+			<offer id="3794849568" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-oranzhevye/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные оранжевые 500 штук в упаковке 470117</name>
+				<description>Tork салфетки 25х25 см 1-слойные оранжевые 500 штук в упаковке 470117. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Оранжевый</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="438657405" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-sm-zheltye/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/18.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/15.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/16.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные желтые 200 штук в упаковке 477823</name>
+				<description>Tork салфетки 24х24 см 2-слойные желтые 200 штук в упаковке 477823. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Желтый</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="3006441455" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpressmultifoldaluminium/</url>
+			       <price>8590</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/460004-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/460004.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/460004-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress диспенсер для листовых полотенец сложения Multifold H2 металлический серый 460004</name>
+				<description>Tork Xpress диспенсер для листовых полотенец сложения Multifold H2 металлический серый 460004. Характерные преимущества: Система- Н2 - Полотенца сложения interfold. </description>
+				<param name="Color">Серый</param>
+				<param name="Высота" unit="мм">485</param>
+				<param name="Ширина" unit="мм">276</param>
+			</offer>
+			<offer id="2790766572" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aluminium-dlya-myla-peny/</url>
+			       <price>10696</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/s4s-open.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-3.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для мыла-пены с сенсором Intuition S4 металлический 1 л 460009</name>
+				<description>Tork диспенсер для мыла-пены с сенсором Intuition S4 металлический 1 л 460009. Характерные преимущества: Система-S4 - Жидкое Мыло-пена. </description>
+				<param name="Высота" unit="мм">278</param>
+				<param name="Ширина" unit="мм">116</param>
+			</offer>
+			<offer id="2772638547" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24x24-shokolad/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/22.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/19-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/20.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные шоколад 200 штук в упаковке 477834</name>
+				<description>Tork салфетки 24х24 см 2-слойные шоколад 200 штук в упаковке 477834. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="730534022" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24x24-sm-belye/</url>
+			       <price>361</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/33.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/30.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/31.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные белые 200 штук в упаковке 477534</name>
+				<description>Tork салфетки 24х24 см 2-слойные белые 200 штук в упаковке 477534. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="1867877580" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-tualetnaya-bumaga-jumbo/</url>
+			       <price>1233</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/120195.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/1201951.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Туалетная бумага Tork Universal в больших рулонах Т1 1-слойная 6 рулонов по 525 метров 120195</name>
+				<description>Туалетная бумага Tork Universal в больших рулонах Т1 1-слойная 6 рулонов по 525 метров 120195. Характерные преимущества: Система- T1 - Туалетная бумага в больших рулонах Jumbo. </description>
+				<param name="Ширина рулона" unit="см">9.5</param>
+				<param name="Длина рулона" unit="м">525</param>
+				<param name="Диаметр рулона" unit="см">24.7</param>
+			</offer>
+			<offer id="2427094613" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/mylo-pena-tork-ultra-myagkoe/</url>
+			       <price>816</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/5207011.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork картридж мыло-пена ульрамягкое S4 1 л 520701</name>
+				<description>Tork картридж мыло-пена ульрамягкое S4 1 л 520701. Характерные преимущества: Система S4 - Жидкое Мыло-пена. </description>
+				<param name="Color">Белый</param>
+				<param name="Объем" unit="ml">1000</param>
+			</offer>
+			<offer id="3221352381" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-matic-sensornyj-chernyj/</url>
+			       <price>19285</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551108-4.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551108.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551108-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic диспенсер для полотенец в рулонах с сенсором Intuition H1 пластиковый черный 551108</name>
+				<description>Tork Matic диспенсер для полотенец в рулонах с сенсором Intuition H1 пластиковый черный 551108. Характерные преимущества: Система- H1 - Полотенца в рулонах. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">368</param>
+				<param name="Ширина" unit="мм">331</param>
+			</offer>
+			<offer id="1339180378" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/listovye-polotenca-multifold/</url>
+			       <price>147</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/471105.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Листовые полотенца Tork Multifold H2 2-слойные 190 штук в упаковке 471105</name>
+				<description>Листовые полотенца Tork Multifold H2 2-слойные 190 штук в упаковке 471105. Характерные преимущества: Система- Н2 - Полотенца сложения Interfold. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">23.4</param>
+				<param name="Ширина" unit="см">21.3</param>
+			</offer>
+			<offer id="1051073964" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-ochistitel-tork/</url>
+			       <price>538</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/420401.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork жидкое мыло-очиститель для рук от жировых и технических загрязнений (косметическое) S1 1 л 420401</name>
+				<description>Tork жидкое мыло-очиститель для рук от жировых и технических загрязнений (косметическое) S1 1 л 420401. Характерные преимущества: Система S1 - Жидкое Мыло. </description>
+				<param name="Объем" unit="ml">1000</param>
+			</offer>
+			<offer id="93456325" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-krasnye/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/04.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные красные 500 штук в упаковке 478661</name>
+				<description>Tork салфетки 25х25 см 1-слойные красные 500 штук в упаковке 478661. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Красный</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="3416484483" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-xpressmultifold-mini-2/</url>
+			       <price>3413</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/552108-7.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/552108.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/552108-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Xpress мини-диспенсер для листовых полотенец сложения Multifold H2 пластиковый черный 552108</name>
+				<description>Tork Xpress мини-диспенсер для листовых полотенец сложения Multifold H2 пластиковый черный 552108. Характерные преимущества: Система- Н2 - Полотенца сложения interfold. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">295</param>
+				<param name="Ширина" unit="мм">302</param>
+			</offer>
+			<offer id="3540445625" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24x24-chernye/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/41.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/39.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/40.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные черные 200 штук в упаковке 477829</name>
+				<description>Tork салфетки 24х24 см 2-слойные черные 200 штук в упаковке 477829. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Черный</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="2359864020" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24x24-krasnye/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/37.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/35.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/36.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки Tork салфетки 24х24 см 2-слойные красные 200 штук в упаковке 477826</name>
+				<description>Tork салфетки Tork салфетки 24х24 см 2-слойные красные 200 штук в упаковке 477826. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Красный</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="2190566503" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-zheltye/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/02.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные желтые 500 штук в упаковке 470116470116</name>
+				<description>Tork салфетки 25х25 см 1-слойные желтые 500 штук в упаковке 470116470116. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Желтый</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="2024209649" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-krem-tork-mini/</url>
+			       <price>416</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/421502.jpg</picture>
+				<delivery>true</delivery>
+			       <name>жидкое мыло-крем Tork мини S1 500 мл 420502</name>
+				<description>жидкое мыло-крем Tork мини S1 500 мл 420502. Характерные преимущества: Система S1 - Жидкое Мыло. </description>
+				<param name="Объем" unit="ml">500</param>
+			</offer>
+			<offer id="55068843" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-dlya-ruk-tork/</url>
+			       <price>519</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/421501.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Жидкое мыло для рук Tork S1 1 л 420501</name>
+				<description>Жидкое мыло для рук Tork S1 1 л 420501. Характерные преимущества: Система S1 - Жидкое Мыло. </description>
+				<param name="Объем" unit="ml">1000</param>
+			</offer>
+			<offer id="3916961591" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24x24-bordo/</url>
+			       <price>546</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/29.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/24.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/26.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 2-слойные бордо 200 штук в упаковке 477824</name>
+				<description>Tork салфетки 24х24 см 2-слойные бордо 200 штук в упаковке 477824. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Бордовый</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="3217748918" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-elevation-loktevoj-2/</url>
+			       <price>4205</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/560108.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для жидкого мыла с локтевым приводом S1 пластиковый черный 560108</name>
+				<description>Tork диспенсер для жидкого мыла с локтевым приводом S1 пластиковый черный 560108. Характерные преимущества: Система- S1 — Жидкое мыло. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">112</param>
+			</offer>
+			<offer id="1536923871" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-25x25-bordo/</url>
+			       <price>460</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/06.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 25х25 см 1-слойные бордо 500 штук в упаковке 478669</name>
+				<description>Tork салфетки 25х25 см 1-слойные бордо 500 штук в упаковке 478669. Характерные преимущества: Длина- 25 см. </description>
+				<param name="Color">Бордовый</param>
+				<param name="Длина" unit="см">25</param>
+				<param name="Ширина" unit="см">25</param>
+			</offer>
+			<offer id="1776713573" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-elevation-loktevoj/</url>
+			       <price>4205</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/560100-2.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для жидкого мыла с локтевым приводом S1 пластиковый белый 560100</name>
+				<description>Tork диспенсер для жидкого мыла с локтевым приводом S1 пластиковый белый 560100. Характерные преимущества: Система- S1 — Жидкое мыло. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">112</param>
+			</offer>
+			<offer id="1289216799" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-mini-jumbo-dvojnoj/</url>
+			       <price>5046</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555500-7.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555500.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555500-3.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork двойной диспенсер для туалетной бумаги в мини-рулонах Т2 пластиковый белый 555500</name>
+				<description>Tork двойной диспенсер для туалетной бумаги в мини-рулонах Т2 пластиковый белый 555500. Характерные преимущества: Система- T2 - Туалетная бумага в мини рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">256</param>
+				<param name="Ширина" unit="мм">432</param>
+			</offer>
+			<offer id="3912841261" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-salfetki-24-belye/</url>
+			       <price>164</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/25.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/05/23.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork салфетки 24х24 см 1-слойные белые 200 штук в упаковке 10130</name>
+				<description>Tork салфетки 24х24 см 1-слойные белые 200 штук в упаковке 10130. Характерные преимущества: Длина- 24 см. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">24</param>
+				<param name="Ширина" unit="см">24</param>
+			</offer>
+			<offer id="1811114300" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/zhidkoe-mylo-sprej-tork/</url>
+			       <price>772</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/620701.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Мыло-спрей Tork S11 1 л 620701</name>
+				<description>Характерные преимущества: Система- S11 мыло- спрей. </description>
+				<param name="Объем" unit="мл">1000</param>
+			</offer>
+			<offer id="909794942" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-matic-chernyj/</url>
+			       <price>15509</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551008-6.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551008-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551008-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic диспенсер для полотенец в рулонах H1 пластиковый черный 551008</name>
+				<description>Tork Matic диспенсер для полотенец в рулонах H1 пластиковый черный 551008. Характеные преимущества: Система- H1 - полотенца в рулонах. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">372</param>
+				<param name="Ширина" unit="мм">337</param>
+			</offer>
+			<offer id="2397957480" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-mini-jumbo-t2/</url>
+			       <price>3200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555000-6.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555000.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/555000-4.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для туалетной бумаги в мини-рулонах Т2 пластиковый белый 555000</name>
+				<description>Tork диспенсер для туалетной бумаги в мини-рулонах Т2 пластиковый белый 555000. Характерные преимущества: Система- T2 - Туалетная бумага в мини рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">275</param>
+				<param name="Ширина" unit="мм">345</param>
+			</offer>
+			<offer id="3225066066" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-matic-belyj/</url>
+			       <price>15509</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551000-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551000-3.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/04/551000.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Matic диспенсер для полотенец в рулонах H1 пластиковый белый 551000</name>
+				<description>Tork Matic диспенсер для полотенец в рулонах H1 пластиковый белый 551000. Характеные преимущества: Система- H1 - полотенца в рулонах. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">372</param>
+				<param name="Ширина" unit="мм">337</param>
+			</offer>
+			<offer id="3297839566" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-elevation-2/</url>
+			       <price>2705</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/5600001.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/560000.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для жидкого мыла S1 1 л 560000</name>
+				<description>Tork диспенсер для жидкого мыла S1 1 л 560000. Характерные преимущества: Система- S1 — Жидкое мыло. </description>
+				<param name="Color">Белый</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">112</param>
+			</offer>
+			<offer id="1896441838" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-aluminium/</url>
+			       <price>4615</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/s4m-open.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/460010-tork-foam-soap-dispenser.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для мыла-пены S1 металлический стальной 460010</name>
+				<description>Tork диспенсер для мыла-пены S1 металлический стальной 460010. Характерные преимущества: Система- S1 — Жидкое мыло. </description>
+				<param name="Высота" unit="мм">297</param>
+				<param name="Ширина" unit="мм">105</param>
+			</offer>
+			<offer id="1317222172" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-elevation/</url>
+			       <price>2705</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/5600081.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/05/560008.png</picture>
+				<delivery>true</delivery>
+			       <name>Tork диспенсер для жидкого мыла S1 1 л 560008</name>
+				<description>Tork диспенсер для жидкого мыла S1 1 л 560008. Характерные преимущества: Система- S1 — Жидкое мыло. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">291</param>
+				<param name="Ширина" unit="мм">112</param>
+			</offer>
+			<offer id="1524243871" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/chistyashhie-salfetki-dlya-hobot-188-nabor-12-shtuk/</url>
+			       <price>1100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/08/188.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/08/hobot-188-5-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Чистящие салфетки для HOBOT-188 (набор 12 штук)</name>
+				<description>Описание: Сменные салфетки для робота-мойщика окон HOBOT 188. Характерные преимущества: Сделаны из микрофибры. </description>
+			</offer>
+			<offer id="330882520" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/twintec-battery-ttv-4555-akkumulyatornaya-polomoechnaya-mashina/</url>
+			       <price>846206</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TTV-4555-%D1%81%D0%B0%D0%B9%D1%821.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TTV-4555-%D1%89%D0%B5%D1%82%D0%BA%D0%B8.png</picture>
+				<delivery>true</delivery>
+			       <name>Numatic Twintec Battery -TTV 4555</name>
+				<description>Описание: Инновационная батарейная поломоечная машина объемом бака на 60 л с приводом на колеса. Модель для ухода за помещениями средних размеров. Маневренность и простота в управлении на высоте. </description>
+				<param name="Объем бака" unit="л">60</param>
+				<param name="Вес" unit="кг">158</param>
+			</offer>
+			<offer id="3061727571" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/numatic-twintec-mains-tt4045-kabelnaya-polomoechnaya-mashina/</url>
+			       <price>223981</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TT4045-%D1%88%D0%BB%D0%B0%D0%BD%D0%B3%D0%B81.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TT4045.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TT40451.png</picture>
+				<delivery>true</delivery>
+			       <name>Numatic Twintec Mains — TT4045</name>
+				<description>Описание: Профессиональная кабельная поломоечная машина Twinteс TT4045. </description>
+				<param name="Объем бака" unit="л">40</param>
+				<param name="Вес" unit="кг">126</param>
+			</offer>
+			<offer id="646986988" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/numatic-twintec-battery-ttb-6055t/</url>
+			       <price>672825</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TTB6055.png</picture>
+				<delivery>true</delivery>
+			       <name>Numatic Twintec Battery — TTB 6055/100T</name>
+				<description>Описание: Аккумуляторная поломоечная машина для больших площадей с приводом на колеса. </description>
+				<param name="Объем бака" unit="л">60</param>
+				<param name="Вес" unit="кг">158</param>
+			</offer>
+			<offer id="1408397606" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/numatic-twintec-tt4055/</url>
+			       <price>261066</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/03/TT4055.png</picture>
+				<delivery>true</delivery>
+			       <name>Numatic Twintec — TT4055</name>
+				<description>Описание: Профессиональная поломоечная машина Twintec Twintec TT4055 с питанием от сети. </description>
+				<param name="Объем бака" unit="л">40</param>
+				<param name="Вес" unit="кг">68</param>
+			</offer>
+			<offer id="2862107835" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-dlya-udaleniya-masla-i-zhira-v-malom-rulone-so-semnoj-vtulkoj-seryj/</url>
+			       <price>4138</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/520337.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork для удаления масла и жира W1, W2 , W3 1-слойная серая 148 метров 520337</name>
+				<description>Нетканый материал Tork для удаления масла и жира W1, W2 , W3 1-слойная серая 148 метров 520337. Характерные преимущества: Система- W1,W2,W3. </description>
+				<param name="Color">Серый</param>
+				<param name="Ширина рулона" unit="см">32.0</param>
+				<param name="Длина рулона" unit="м">148.2</param>
+				<param name="Диаметр рулона" unit="см">25.0</param>
+			</offer>
+			<offer id="4092949651" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-plyus-protirochnaya-bumaga-v-rulone-s-centralnoj-vytyazhkoj-so-semnoj-vtulkoj/</url>
+			       <price>4494</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/1300441.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/130044.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Плюс М2 2-слойная белая 6 штук по 125 метров 130044</name>
+				<description>Протирочная бумага Tork Плюс М2 2-слойная белая 6 штук по 125 метров 130044. Характерные преимущества: Система- M2. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">23.5</param>
+				<param name="Длина рулона" unit="м">125.0</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="1920991909" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-povyshennoj-prochnosti-v-malom-rulone-so-semnoj-vtulkoj/</url>
+			       <price>3195</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/530137.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/5301371.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork повышенной прочности W1, W2, W3 1-слойная белая 106 метров 530137</name>
+				<description>Нетканый материал Tork повышенной прочности W1, W2, W3 1-слойная белая 106 метров 530137. Характерные преимущества: Система- W1, W2, W3. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">32.0</param>
+				<param name="Длина рулона" unit="м">106.4</param>
+				<param name="Диаметр рулона" unit="см">25.0</param>
+			</offer>
+			<offer id="3855960921" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-protirochnaya-bumaga-superprochnaya-v-rulone-so-semnoj-vtulkoj-golubaya/</url>
+			       <price>2744</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/130080.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/1300811.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork протирочная бумага суперпрочная в рулоне со съемной втулкой W1, W2 3-слойная голубая 2 штуки по 119 метров 130081</name>
+				<description>Tork протирочная бумага суперпрочная в рулоне со съемной втулкой W1, W2 3-слойная голубая 2 штуки по 119 метров 130081. Характерные преимущества: Система- W1,W2. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">23.5</param>
+				<param name="Длина рулона" unit="м">119.0</param>
+				<param name="Диаметр рулона" unit="см">26.2</param>
+			</offer>
+			<offer id="582308261" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-dlya-udaleniya-masla-i-zhira-v-bolshom-rulone-seryj/</url>
+			       <price>13706</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/520304.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork для удаления масла и жира W1 1-слойная серая 361 метр 520304</name>
+				<description>Нетканый материал Tork для удаления масла и жира W1 1-слойная серая 361 метр 520304. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Серый</param>
+				<param name="Ширина рулона" unit="см">43.0</param>
+				<param name="Длина рулона" unit="м">361.0</param>
+				<param name="Диаметр рулона" unit="см">38.0</param>
+			</offer>
+			<offer id="963200917" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-universal-rulonnye-polotenca-s-centralnoj-vytyazhkoj-i-semnoj-vtulkoj/</url>
+			       <price>2231</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/120166.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Базовая протирочная бумага Tork 1-слойная белая 6 штук по 275 метров 120166</name>
+				<description>Базовая протирочная бумага Tork 1-слойная белая 6 штук по 275 метров 120166. Характерные преимущества: Система- M2. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">19.8</param>
+				<param name="Длина рулона" unit="м">275.0</param>
+				<param name="Диаметр рулона" unit="см">18.9</param>
+			</offer>
+			<offer id="1900470123" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/nastennyj-dispenser-tork-dlya-rulonov-v-korobe-s-otborochnym-ustrojstvom/</url>
+			       <price>2966</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/207210-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/207210.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Настенный диспенсер Tork для рулонов в коробе с отборочным устройством W3 пластиковый черный 207210</name>
+				<description>Настенный диспенсер Tork для рулонов в коробе с отборочным устройством W3 пластиковый черный 207210. Характерные преимущества: Система- W3 - Протирочные материалы в коробе с отборочным устройством. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="мм">360</param>
+				<param name="Ширина" unit="мм">285</param>
+			</offer>
+			<offer id="3387226746" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/napolnyj-dispenser-tork-dlya-protirochnyx-materialov-v-rulonax-kopirovat/</url>
+			       <price>7533</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652108.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652108-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Настенный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый черный 652108</name>
+				<description>Настенный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый черный 652108. Характерные преимущества: Система- W1 - Протирочные материалы в рулонах для напольного/настенного диспенсера. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="mm">463</param>
+				<param name="Ширина" unit="mm">646</param>
+			</offer>
+			<offer id="4245895631" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-superprochnyj-v-malom-rulone-so-semnoj-vtulkoj/</url>
+			       <price>2628</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/681248-2.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/681248.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/681248-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork суперпрочный 1-слойная белая 60 метров 681248</name>
+				<description>Нетканый материал Tork суперпрочный 1-слойная белая 60 метров 681248. Характерные преимущества: Слойность — 1. </description>
+				<param name="Color">Белый</param>
+			</offer>
+			<offer id="2948260451" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-dlya-udaleniya-masla-i-zhira-v-salfetkax-seryj/</url>
+			       <price>9300</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/520378.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/5203781.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork нетканый материал для удаления масла и жира в салфетках W4 1-слойная серая 5 штук по 140 листов 520378</name>
+				<description>Tork нетканый материал для удаления масла и жира в салфетках W4 1-слойная серая 5 штук по 140 листов 520378. Характерные преимущества: Система- W4. </description>
+				<param name="Color">Серый</param>
+				<param name="Длина" unit="см">42.8</param>
+				<param name="Ширина" unit="см">38.5</param>
+			</offer>
+			<offer id="1229175123" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/578804-tork-reflex-plyus-protir-bumaga-v-rulone-cv-so-semnoj-vtulkoj/</url>
+			       <price>3490</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/473472.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Reflex Plus M4 2-слойная белая 6 штук по 150 метров 473472</name>
+				<description>Протирочная бумага Tork Reflex Plus M4 2-слойная белая 6 штук по 150 метров 473472. Характерные преимущества: Система- M4. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">19.4</param>
+				<param name="Длина рулона" unit="м">150.8</param>
+				<param name="Диаметр рулона" unit="см">18.5</param>
+			</offer>
+			<offer id="1868869612" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/401095-tork-reflex-protir-bumaga-v-mini-rulone-cv-so-semnoj-vtulkoj/</url>
+			       <price>4004</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/473246.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/4732461.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Reflex M3 1-слойная белая 12 штук по 120 метров 473246</name>
+				<description>Протирочная бумага Tork Reflex M3 1-слойная белая 12 штук по 120 метров 473246. Характерные преимущества: Система- M3. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">19.8</param>
+				<param name="Длина рулона" unit="м">120.1</param>
+				<param name="Диаметр рулона" unit="см">13.0</param>
+			</offer>
+			<offer id="3779301495" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-plyus-protirochnaya-bumaga-v-rulone-so-semnoj-vtulkoj-golubaya/</url>
+			       <price>1239</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/241163-1.png</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130052.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/1300521.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Плюс 2-слойная голубая 255 метров в рулоне 241163</name>
+				<description>Протирочная бумага Tork Плюс 2-слойная голубая 255 метров в рулоне 241163. Характерные преимущества: Слойность — 2. </description>
+				<param name="Color">Голубой</param>
+			</offer>
+			<offer id="1120832981" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-protirochnaya-bumaga-povyshennoj-prochnosti-v-rulone-golubaya/</url>
+			       <price>4021</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130070.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork протирочная бумага повышенной прочности в рулоне голубая W1 2-слойная 340 метров 130070</name>
+				<description>Tork протирочная бумага повышенной прочности в рулоне голубая W1 2-слойная 340 метров 130070. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">340.0</param>
+				<param name="Диаметр рулона" unit="см">37.5</param>
+			</offer>
+			<offer id="948886708" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/napolnyj-dispenser-tork-dlya-protirochnyx-materialov-v-rulonax-2/</url>
+			       <price>11152</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652008-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652008.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Напольный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый черный 652008</name>
+				<description>Напольный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый черный 652008. Характерные преимущества: Система- W1 - Протирочные материалы в рулонах для напольного/настенного диспенсера. </description>
+				<param name="Color">Черный</param>
+				<param name="Высота" unit="mm">1006</param>
+				<param name="Ширина" unit="mm">646</param>
+			</offer>
+			<offer id="3697901113" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/nastennyj-dispenser-tork-dlya-protirochnyx-materialov-v-rulonax/</url>
+			       <price>7533</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652100-1.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Настенный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый голубой 652100</name>
+				<description>Настенный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый голубой 652100. Характерные преимущества: Система- W1 - Протирочные материалы в рулонах для напольного/настенного диспенсера. </description>
+				<param name="Color">Голубой</param>
+				<param name="Высота" unit="mm">463</param>
+				<param name="Ширина" unit="mm">646</param>
+			</offer>
+			<offer id="1817009057" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/napolnyj-dispenser-tork-dlya-protirochnyx-materialov-v-rulonax/</url>
+			       <price>11152</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652000-1.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/652000-2.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Напольный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый голубой 652000</name>
+				<description>Напольный диспенсер Tork для протирочных материалов в рулонах W1 пластиковый голубой 652000. Характерные преимущества: Система- W1 - Протирочные материалы в рулонах для напольного/настенного диспенсера. </description>
+				<param name="Color">Голубой</param>
+				<param name="Высота" unit="mm">1006</param>
+				<param name="Ширина" unit="mm">646</param>
+			</offer>
+			<offer id="1859072005" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-plyus-protirochnaya-bumaga-v-rulone-so-semnoj-vtulkoj-2/</url>
+			       <price>1537</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130041.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Плюс W1, W2 2-слойная белая 255 метров в рулоне 130041</name>
+				<description>Протирочная бумага Tork Плюс W1, W2 2-слойная белая 255 метров в рулоне 130041. Характерные преимущества: Система- W1,W2. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">23.5</param>
+				<param name="Длина рулона" unit="м">255</param>
+				<param name="Диаметр рулона" unit="см">26.2</param>
+			</offer>
+			<offer id="2853125223" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-bazovaya-protirochnaya-bumaga-v-rulone-2-sloya-golubaya/</url>
+			       <price>3448</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/128408.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Двухслойная базовая протирочная бумага Tork W1 2-слойная голубая 2 штуки по 340 метров 128408</name>
+				<description>Двухслойная базовая протирочная бумага Tork W1 2-слойная голубая 2 штуки по 340 метров 128408. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">340.0</param>
+				<param name="Диаметр рулона" unit="см">26.3</param>
+			</offer>
+			<offer id="3770833038" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-protirochnaya-bumaga-superprochnaya-v-rulone-golubaya/</url>
+			       <price>4369</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130080.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork протирочная бумага суперпрочная в рулоне W1 3-слойная голубая 255 метров 130080</name>
+				<description>Tork протирочная бумага суперпрочная в рулоне W1 3-слойная голубая 255 метров 130080. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">255.0</param>
+				<param name="Диаметр рулона" unit="см">39.0</param>
+			</offer>
+			<offer id="2932684335" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-plyus-protirochnaya-bumaga-v-rulone-so-semnoj-vtulkoj/</url>
+			       <price>2002</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130042.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/1300421.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork Плюс W1, W2, W3 2-слойная белая 255 метров в рулоне 130042</name>
+				<description>Протирочная бумага Tork Плюс W1, W2, W3 2-слойная белая 255 метров в рулоне 130042. Характерные преимущества: Система- W1,W2,W3. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">25.8</param>
+				<param name="Длина рулона" unit="м">255.0</param>
+				<param name="Диаметр рулона" unit="см">26.2</param>
+			</offer>
+			<offer id="879107654" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-protirochnaya-bumaga-v-rulone-s-centralnoj-vytyazhkoj/</url>
+			       <price>4233</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/130034.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/1300341.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork протирочная бумага в рулоне с центральной вытяжкой М2 1-слойная белая 6 штук по 165 метров 130034</name>
+				<description>Tork протирочная бумага в рулоне с центральной вытяжкой М2 1-слойная белая 6 штук по 165 метров 130034. Характерные преимущества: Система- M2. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">19.5</param>
+				<param name="Длина рулона" unit="м">165</param>
+				<param name="Диаметр рулона" unit="см">19.0</param>
+			</offer>
+			<offer id="1486484870" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-protirochnaya-bumaga-povyshennoj-prochnosti-v-rulone/</url>
+			       <price>2679</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130062.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/1300621.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork протирочная бумага повышенной прочности в рулоне W1, W2 2-слойная белая 2 штуки по 170 метров 130062</name>
+				<description>Tork протирочная бумага повышенной прочности в рулоне W1, W2 2-слойная белая 2 штуки по 170 метров 130062. Характерные преимущества: Система- W1,W2. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">23.5</param>
+				<param name="Длина рулона" unit="м">170.0</param>
+				<param name="Диаметр рулона" unit="см">26.2</param>
+			</offer>
+			<offer id="2298444509" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-povyshennoj-prochnosti-v-salfetkax/</url>
+			       <price>7156</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/530177.jpg</picture>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/5301771.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork повышенной прочности W4 1-слойная белая 5 штук по 60 листов 530177</name>
+				<description>Нетканый материал Tork повышенной прочности W4 1-слойная белая 5 штук по 60 листов 530177. Характерные преимущества: Система- W4. </description>
+				<param name="Color">Белый</param>
+				<param name="Длина" unit="см">64.2</param>
+				<param name="Ширина" unit="см">38.5</param>
+			</offer>
+			<offer id="1519644560" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-netkanyj-material-v-malom-rulone-so-semnoj-vtulkoj/</url>
+			       <price>3243</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/11/510137.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Нетканый материал Tork W1, W2, W3 1-слойная белая 152 метра 510137</name>
+				<description>Нетканый материал Tork W1, W2, W3 1-слойная белая 152 метра 510137. Характерные преимущества: Система- W1,W2,W3. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">32.0</param>
+				<param name="Длина рулона" unit="м">152.0</param>
+				<param name="Диаметр рулона" unit="см">25.0</param>
+			</offer>
+			<offer id="3644491017" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-plyus-protirochnaya-bumaga-v-rulone-golubaya-2/</url>
+			       <price>5084</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130050.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Tork Плюс протирочная бумага в рулоне W1 2-слойная голубая 510 метров 130050</name>
+				<description>Tork Плюс протирочная бумага в рулоне W1 2-слойная голубая 510 метров 130050. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">510.0</param>
+				<param name="Диаметр рулона" unit="см">39.0</param>
+			</offer>
+			<offer id="3555873572" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/tork-advanced-protirochnaya-bumaga-430-performance/</url>
+			       <price>4021</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2015/10/130060.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork повышенной прочности W1 2-слойная белая 340 метров 130060</name>
+				<description>Протирочная бумага Tork повышенной прочности W1 2-слойная белая 340 метров 130060. Характерные преимущества: Система- W1. </description>
+				<param name="Color">Белый</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">340.0</param>
+				<param name="Диаметр рулона" unit="см">37.5</param>
+			</offer>
+			<offer id="1135717387" available="true">
+			       <url>https://www.uborka-tver.ru/catalog/protirochnaya-bumaga-tork-povyshennoj-prochnosti-2/</url>
+			       <price>4021</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2731707003</categoryId>
+				<picture>https://www.uborka-tver.ru/wp-content/uploads/2018/07/130070-o.jpg</picture>
+				<delivery>true</delivery>
+			       <name>Протирочная бумага Tork повышенной прочности W1 2-слойная голубая 340 метров в рулоне 130070</name>
+				<description>Протирочная бумага Tork повышенной прочности W1 2-слойная голубая 340 метров в рулоне 130070. Характерные преимущества: Система- W1 - Протирочные материалы в рулонах для напольного/настенного диспенсера. </description>
+				<param name="Color">Голубой</param>
+				<param name="Ширина рулона" unit="см">36.9</param>
+				<param name="Длина рулона" unit="м">340</param>
+				<param name="Диаметр рулона" unit="см">37.5</param>
+			</offer>
+		</offers>
+</shop>
+</yml_catalog>
